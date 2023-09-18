@@ -1,16 +1,28 @@
-### Hi there 👋
+<br />
 
-<!--
-**MatheusPCV/MatheusPCV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Aoba 👋, Eu sou o Matheus Vieira</h1>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Explorando o mundo através do código.</h3>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" />
+</a>
+<a href="https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/">
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true" />
+</a>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<div align="center">
+  
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=31lsak33q5sgqq2ydyvfagv3qhke&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31lsak33q5sgqq2ydyvfagv3qhke&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)
+
+
+
+</div>
