@@ -7,10 +7,10 @@
 <h3 align="center">Explorando o mundo através do código.</h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=215 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" />
+  <img height=212 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" />
 </a>
 <a href="https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/">
-  <img height=215 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true" />
+  <img height=212 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true" />
 </a>
 
 <br />
