@@ -1,4 +1,3 @@
-<br />
 
 <h1 align="center">Aoba 👋, Eu sou o Matheus Vieira</h1>
 
